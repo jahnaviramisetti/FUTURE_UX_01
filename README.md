@@ -32,7 +32,7 @@ The black & gold theme represents sophistication and premium beauty services.
 - Book Appointment Call-to-Action
 - Navigation Bar (Home, Services, Gallery)
 
-  ![Home Page](homepage.png)
+  ![screenshots](homepage.png)
 
 ### 2️⃣ About Us Section
 - Salon introduction
@@ -55,7 +55,7 @@ The black & gold theme represents sophistication and premium beauty services.
 - Clean Up – ₹500
 - Detan – ₹700
 
-  ![Services Page](servicepage.png)
+  ![screenshots](servicepage.png)
 
 ### 4️⃣ Gallery Section
 - Before & After transformations
@@ -68,7 +68,7 @@ The black & gold theme represents sophistication and premium beauty services.
 - 📱 WhatsApp Integration
 - 📷 Instagram Handle
 
-  ![Contact Page](contactpage.png)
+  ![screenshots](contactpage.png)
 
 ## 🛠️ Tools Used
 - Canva (Website Design)
